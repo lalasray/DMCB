@@ -1,0 +1,19 @@
+Friction: 0.2
+Mass: [Subject weight in Kg]
+Simulation speed: 1.00
+stifness: 0.8
+Damping:0.005
+Average strength: 0.7
+Min strength: 0.0
+Max strength: 0.9
+Edge pull: 0.5
+Edge push: 0.8
+Plasticity: 0.3
+Beneding: 0.001
+Aerodynamics: Lift force
+Factor: 1
+Stifness shear: 0.85
+Gravity: 1
+Harmonics: 1
+Force: 1
+Drag: 1

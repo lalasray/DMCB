@@ -1,0 +1,30 @@
+Cloth preset: cotton
+Quality steps: 30
+Speed multiplier: 0.9
+Vertex Mass: 0.1 kg
+Air Viscosity: 1.0
+Bending model: Angular
+Stifness tension: 15
+Stifness compression: 15
+Stifness shear: 10
+Stifness bending: 0.5
+Damping tension: 5
+Damping compression: 5
+Damping shear: 5
+Damping bending: 0.5
+Internal springs: false
+Pressure: false
+Sewing: true
+Max sewing force: 0.8
+Shrinking factor: 0.001
+Dynamic Mesh: true
+Collision quality: 10
+Distance: 0.008 m
+Impulse clamping: 0.001
+Self collision: true
+Self Friction: 5
+Self Distance: 0.015
+Gravity: 1
+Harmonics: 1
+Force: 1
+Drag: 1

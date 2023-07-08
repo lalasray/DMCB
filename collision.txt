@@ -1,0 +1,7 @@
+Field Absorbotion: 0.02
+Damping:0.1
+Outer thckness:0.04
+Inner thichness:0.16
+Friction:6.0 
+Single sided: True
+Override Normals: True

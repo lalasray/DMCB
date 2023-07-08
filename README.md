@@ -7,12 +7,12 @@ Benchmarking marker-based vs marker-less motion capture systems
   3. Extreme angle motions: s1;https://dfkide-my.sharepoint.com/:f:/g/personal/lara01_dfki_de/Eo4o7xAHIXpNtowdbY4EWWIBBZd9a-Bj23O4dKCCwi8qRg?e=vog0uk , lar_(1,2,3,4,5): https://poseprior.is.tue.mpg.de/
 
 ### SMPL body sources with skeleton.
-  1. Male_small: s_m.fbx
-  2. Male_average: m_m.fbx
-  3. Male_heavy: h_m.fbx
-  4. Female_small: s_f.fbx
-  5. Female_medium: m_f.fbx
-  6. Female heavy: h_f.fbx
+  1. Male_small: [s_m.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=s_m.obj,33)
+  2. Male_average: [m_m.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=m_M.obj,33)
+  3. Male_heavy: [h_m.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=h_m.obj,33)
+  4. Female_small: [s_f.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=s_f.obj,33)
+  5. Female_medium: [m_f.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=m_f.obj,33)
+  6. Female heavy: [h_f.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=h_f.obj,33)
      
 ### Cloth source files.
   1. Simply Asset pack: https://blendermarket.com/products/simply-asset-packs

@@ -19,10 +19,10 @@ Benchmarking marker-based vs marker-less motion capture systems
 
 ### Simulation Parameters.
   1. For translating kinematic based motion capture to AMASS mesh: https://github.com/vchoutas/smplify-x + https://github.com/nghorbani/soma 
-  2. Soft-tissue dynamics: https://github.com/nghorbani/moshpp + https://github.com/nghorbani/amass, vertex groups can be soft body materails as defined in; softbody.txt
+  2. Soft-tissue dynamics: https://github.com/nghorbani/moshpp + https://github.com/nghorbani/amass, vertex groups can be soft body materails as defined in; [softbody.txt](https://github.com/lalasray/DMCB/blob/main/README.md#:~:text=softbody.txt,Raw)
   3. Cloth simulation: https://blendermarket.com/products/simply-cloth
-  4. Collision parmaeters: collision.txt
-  5. CLoth material: Custom_mat.txt
+  4. Collision parmaeters: [collision.txt](https://github.com/lalasray/DMCB/blob/main/README.md#:~:text=collision.txt,Raw)
+  5. CLoth material: [custom_mat.txt](https://github.com/lalasray/DMCB/blob/main/README.md#:~:text=custom_mat.txt,Raw)
      
 ### Marker based MocaP simulation:
   1. Motion retargeting: https://github.com/Meshcapade/SMPL_blender_addon + https://blendermarket.com/products/auto-rig-pro

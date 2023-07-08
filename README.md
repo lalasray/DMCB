@@ -6,7 +6,7 @@ Benchmarking marker-based vs marker-less motion capture systems
   2. Fast Motions: s3_(walking*, freestyle); https://cvssp.org/data/totalcapture/ , Hasaposerviko, Pentozali; http://dancedb.eu/
   3. Extreme angle motions: s1;https://dfkide-my.sharepoint.com/:f:/g/personal/lara01_dfki_de/Eo4o7xAHIXpNtowdbY4EWWIBBZd9a-Bj23O4dKCCwi8qRg?e=vog0uk , lar_(1,2,3,4,5): https://poseprior.is.tue.mpg.de/
 
-### SMPL body sources.
+### SMPL body sources with skeleton.
   1. Male_small: s_m.fbx
   2. Male_average: m_m.fbx
   3. Male_heavy: h_m.fbx

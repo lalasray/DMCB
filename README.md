@@ -2,9 +2,9 @@
 Benchmarking marker-based vs marker-less motion capture systems
 
 ### Motion source files:
-  1. Basic Motions : s1_(walking*, acting); https://cvssp.org/data/totalcapture/ , s4_combo(1,2,3,4); http://humaneva.is.tue.mpg.de/datasets_human_2
-  2. Fast Motions: s3_(walking*, freestyle); https://cvssp.org/data/totalcapture/ , Hasaposerviko, Pentozali; http://dancedb.eu/
-  3. Extreme angle motions: s1;https://dfkide-my.sharepoint.com/:f:/g/personal/lara01_dfki_de/Eo4o7xAHIXpNtowdbY4EWWIBBZd9a-Bj23O4dKCCwi8qRg?e=vog0uk , lar_(1,2,3,4,5): https://poseprior.is.tue.mpg.de/
+  1. Basic Motions : walking, acting; https://cvssp.org/data/totalcapture/ , 1,2,3,4; http://humaneva.is.tue.mpg.de/datasets_human_2
+  2. Fast Motions: walking, freestyle; https://cvssp.org/data/totalcapture/ , Hasaposerviko, Pentozali; http://dancedb.eu/
+  3. Extreme angle motions: s1;https://dfkide-my.sharepoint.com/:f:/g/personal/lara01_dfki_de/Eo4o7xAHIXpNtowdbY4EWWIBBZd9a-Bj23O4dKCCwi8qRg?e=vog0uk , 1,2,3,4,5: https://poseprior.is.tue.mpg.de/
 
 ### SMPL body sources with skeleton:
   1. Male_small: [s_m.obj](https://github.com/lalasray/DMCB/edit/main/README.md#:~:text=s_m.obj,33)

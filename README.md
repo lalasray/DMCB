@@ -29,4 +29,4 @@ Benchmarking marker-based vs marker-less motion capture systems
   2. Marker pacement: Find the index nearest vertex at the front and back of each skeletal joint of the SMPL mesh after simulating desired cloth over it. (NEED TO BE DONE EVRY TIME SINCE THE VERTX INDEX LIST IS RANDOMIZED EVRY TIME)
   3. Pose extraction: extract.py
   4. Marklerless pose estimation: https://github.com/vladmandic/blazepose, https://github.com/facebookresearch/VideoPose3D
-  5. Forward kinematics: https://github.com/lalasray/helper_video2bvh
+  5. pose to MoCap: https://github.com/lalasray/helper_video2bvh
